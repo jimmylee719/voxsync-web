@@ -1,0 +1,8 @@
+{
+  "name": "VoiceFlow Prompter",
+  "description": "Voice-activated teleprompter SaaS that listens to your speech and scrolls automatically. Perfect for presentations.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
